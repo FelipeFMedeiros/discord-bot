@@ -18,8 +18,8 @@ Esse é um BOT de discord criado por mim. O projeto foi criado usando a discord.
 | `CLIENT_ID` | `string` | **Obrigatório**. O ID de cliente do seu BOT |
 | `GUILD_ID` | `string` | **Obrigatório**. O ID do seu servidor do discord |
 
-
-
+## Instalação e Documentação da API
+Para iniciar o bot basta executar primeiro o arquivo `load.bat` para carregar todos os comandos e depois o arquivo `start.bat` para deixar o BOT online.
 
 ## Referências
 
