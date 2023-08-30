@@ -4,11 +4,11 @@
 Esse é um BOT de discord criado por mim. O projeto foi criado usando a discord.js V14 e a API do discord. O projeto não está completo, diria que não fiz nem metade do que eu pretendo fazer. Vou atualizar esse projeto futuramente, adicionando muitas melhorias e novas funcionalidades.
  
 ## Instalação e Documentação da API
-```http
+```
   Instale o node.js versão v20.0.0 ou maior
 ```
 
-```http
+```
   Crie um arquivo .env e adicione:
 ```
 
