@@ -5,7 +5,7 @@ Esse é um BOT de discord criado por mim. O projeto foi criado usando a discord.
  
 ## Instalação e Documentação da API
 ```
-  Instale o node.js versão v20.0.0 ou maior
+  Instale o node.js versão v20.0.0 ou maior, após, instale as dependências presentes em package.json
 ```
 
 ```
